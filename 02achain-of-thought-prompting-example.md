@@ -86,5 +86,11 @@ fn main() -> Result<(), Box<dyn Error>> {
 2. **Explainability**: The step-by-step nature of CoT provides transparency in the AI's decision-making process.
 3. **Versatility**: Applicable to a wide range of tasks, from mathematical problems to commonsense reasoning.
 
+## Future Directions
+
+- Exploring combinations of CoT with other prompting techniques
+- Investigating the impact of different prompt structures on reasoning quality
+- Applying CoT to specialized domains (e.g., scientific research, legal analysis)
+
 By integrating theory with practical implementation, Chain-of-Thought prompting demonstrates the potential to significantly enhance the reasoning capabilities of Large Language Models across various domains.
 

@@ -1,4 +1,6 @@
 # Rust + LLM
 
-# 1) Start: Async Api Call reqwest, serde, tokio
-
+# 0) Start: Async Api Call reqwest, serde, tokio
+# 1) Basic One-Shot Prompting As is
+# 2) CoT:Chain-of-Thought Prompting
+# 3) Self-Consistency Prompting
