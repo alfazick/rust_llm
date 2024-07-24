@@ -5,3 +5,4 @@
 # 2) CoT:Chain-of-Thought Prompting
 # 3) Self-Consistency Prompting
 # 4) Ensemble-Refinement Prompting
+# 5) Automatic Chain-of-Thought (Auto-CoT) Technique
